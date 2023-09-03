@@ -1,2 +1,3 @@
 python-dotenv==1.0.0
 googletrans==4.0.0rc1
+deepl==1.15.0

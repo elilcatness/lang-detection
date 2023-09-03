@@ -1,0 +1,2 @@
+class MissingDotenvVar(Exception):
+    pass
